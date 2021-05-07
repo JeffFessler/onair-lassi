@@ -43,10 +43,11 @@ Please cite the above paper(s) if you use this code.
 
 
 For further code and data:
-* Here's a link to a 160MB download that (should) contain a standalone set of files. There are `demo_XXX` files that run demos for various algorithms.
+* Here's a link to a 160MB `.zip` download that (should) contain a standalone set of files. There are `demo_XXX` files that run demos for various algorithms.
 https://drive.google.com/file/d/1m-swPi6jLsfoaLeGesYdSQaCmw234luq
 
-This folder contains OnAIR, LASSI, SOUP-DIL, and some other variations on them (like OptShrink-powered variations). I haven't had a chance to go through the files and rename things or separate out into per-paper code.
+This folder contains OnAIR, LASSI, SOUP-DIL, and some other variations on them (like OptShrink-powered variations).
+We haven't gone through the files and rename things or separate out into per-paper code.  That `.zip` file was the starting point for this repo.
 
 The script that runs OnAIR is called `demo_onlineDls.m` and is only for video denoising.  We haven't had a chance to put together encapsulated scripts that use sensing matrices for MRI, for example.
 
